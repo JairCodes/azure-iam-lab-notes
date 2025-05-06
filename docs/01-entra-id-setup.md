@@ -14,9 +14,11 @@ Capture the very first steps of accessing your Azure AD tenant and exploring cor
 
 ## 1. Sign In to the Azure Portal
 1. Go to:
+   
 https://portal.azure.com
 2. Authenticate with your work or personal Azure account.
 **Note:** If you don't currently have an Azure subscription yet, sign up here:
+
 https://azure.microsoft.com/free/
 
 ---
@@ -24,6 +26,7 @@ https://azure.microsoft.com/free/
 ## 2. Locate the Entra ID Blade
 1. In the left-hand menu, click **Microsoft Entra ID** (you may also see **Azure Active Directory**).
 2. If it is not under your favorites (left-hand menu), use the search bar at the top:
+   
 Search: "Microsoft Entra ID"
 
 ---
