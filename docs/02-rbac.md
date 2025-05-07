@@ -10,6 +10,7 @@ Document how to explore and assign Entra ID directory roles, and how to assign A
 
 ---
 
-##1. Explore & Assign Entra ID Directory Roles
-1. In the Azure portal, go to **Azure Active Directory** -> **Roles and administrators**.
+## 1. Explore & Assign Entra ID Directory Roles
+1. In the Azure portal, go to **Microsoft Entra ID** (**Azure Active Directory**) -> ***Roles and administrators** (under Manage).
+![image](https://github.com/user-attachments/assets/fd17a6a6-315e-4726-9541-146d1fe7e754)
 2. Browse the built-in roles (e.g., **Global Adminstrators**, **User Administrator**, **Security Reader**).
