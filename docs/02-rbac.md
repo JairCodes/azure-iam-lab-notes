@@ -32,14 +32,14 @@ Document how to explore and assign Entra ID directory roles, and how to assign A
 ---
 
 ## 3. Assign an Azure RBAC Role
-1. Navigate to **lab-rbac-rg** -> **Access control (IAM)**.
+1. Navigate to **lab-rbac-rg** -> **Access control (IAM)**. <br>
 ![image](https://github.com/user-attachments/assets/68afa9e5-97eb-4701-9d51-64316c44c06a)
-2. Click **+ Add** -> **Add role assignment**.
-3. Select **Role**: **Reader**.
+3. Click **+ Add** -> **Add role assignment**.
+4. Select **Role**: **Reader**.
 ![image](https://github.com/user-attachments/assets/6f9c81e2-a684-4285-ba39-55b946a20712)
-4. Under **Assign access to**, choose **User, group, or service principal** (default)
-5. Click **Select members**, choose **lab-test-user**, then **Select**.
-6. Click **Review + assign** -> **Assign**.
+5. Under **Assign access to**, choose **User, group, or service principal** (default)
+6. Click **Select members**, choose **lab-test-user**, then **Select**.
+7. Click **Review + assign** -> **Assign**.
 ![image](https://github.com/user-attachments/assets/f9a1eb50-0561-4ac5-b78d-7d6f0eddec1e)
 
 ## 4. Observations & Next Steps
