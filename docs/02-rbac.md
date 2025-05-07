@@ -14,11 +14,9 @@ Document how to explore and assign Entra ID directory roles, and how to assign A
 1. In the Azure portal, go to **Microsoft Entra ID** (**Azure Active Directory**) -> ***Roles and administrators** (under Manage).
 ![image](https://github.com/user-attachments/assets/fd17a6a6-315e-4726-9541-146d1fe7e754)
 2. Browse the built-in roles (e.g., **Global Adminstrators**, **User Administrator**, **Security Reader**).
-![image](https://github.com/user-attachments/assets/74ea4470-516d-4152-af65-b0ac6ff1c408)
 3. Click **User Administrator** -> **+ Add assignments**.
 4. Locate and select **lab-test-user** (search if needed), then click **Add**.
-![image](https://github.com/user-attachments/assets/3ef0e09c-6b54-4966-a057-a447ea52388c)
-
+   
 ---
 
 ## 2. Create a Resource Group
